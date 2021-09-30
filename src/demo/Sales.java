@@ -64,6 +64,7 @@ public class Sales implements ActionListener {
 	 * Create the application.
 	 */
 	public Sales() {
+	//call the method
 		initialize();
 	}
 	public void Get_Connection() throws SQLException {
